@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
-<h3 align="center">I'm full stack data scirntist</h3>
+<h3 align="center">I'm a Full Stack Data Scientist</h3>
 
 - 🔭 I’m currently working on **Ai projects**
 
