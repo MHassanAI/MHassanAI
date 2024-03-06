@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 <h3 align="center">I'm a Full Stack Data Scientist</h3>
 
-- 🔭 I’m currently working on **Ai projects**
+- 🔭 I’m currently working on **AI Projects**
 
 - 👯 I’m looking to collaborate on **Long term**
 
-- 💬 Ask me about **Full stack data**
+- 💬 Ask me about **Full Stack Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
