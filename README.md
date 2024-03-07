@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 <h3 align="center">I'm a Full Stack Data Scientist | AI Specialist | Machine Learning Enthusiast</h3>
 
+![Full Stack Data Scientist](https://github.com/MHassanAI/MHassanAI/assets/156025933/a91bddde-92e8-476c-bda8-08f342fba264)
+
 - 🔭 I’m currently working on **AI Projects**
 
 - 🔬 My expertise spans across the entire spectrum of **Data Science**, from data acquisition and preprocessing to model building, deployment, and visualization. I thrive on leveraging cutting-edge tools and techniques to derive actionable insights and drive informed decision-making.
