@@ -20,7 +20,7 @@
                           **Big Data Technologies | Cloud Computing (AWS, GCP, Azure)**
                           **Statistical Analysis | Data Visualization | Agile Methodologies**
 
-
+![Tech GIF](https://github.com/MHassanAI/MHassanAI/assets/156025933/a182e6ab-17e3-4f9e-84c3-41f9234ae2b6)
 
 
 <h3 align="left">Connect with me:</h3>
